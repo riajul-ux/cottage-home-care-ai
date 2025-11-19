@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { APP_NAME } from './constants';
 import { Message } from './types';
-import { sendMessageToGemini } from './services/geminiService';
-import MessageBubble from './components/MessageBubble';
+import { sendMessageToGemini } from './geminiService';
+import MessageBubble from './MessageBubble';
 
 const App: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
