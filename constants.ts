@@ -58,8 +58,8 @@ Pooled Income Trust (PIT): Reduces surplus payment. Instead of paying full surpl
 
 7. MAP (Medicare Advantage Plus)
 For dual eligible (Medicare + Medicaid).
-Includes OTC allowance, Medical coverage, Transportation, Overseas coverage ($50k).
-MAP Plans:
+Includes OTC allowance, Medical coverage, Transportation, they can use otc card to do groccessary shopping and on the back of the card there is a number which they can call to ask for the coverage.
+MAP Plans
 - CENTERSPLAN (CPHL): OTC $340/month. No Suffolk.
 - ELDERPLAN: OTC $900/quarterly. No Suffolk.
 - HAMASPIK: OTC $215/month. All 5 boroughs.
