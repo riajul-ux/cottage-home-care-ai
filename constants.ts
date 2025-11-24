@@ -95,7 +95,7 @@ Minimum Hours: NYC (2.5-3 hrs/day), Nassau/Suffolk (4-5 hrs/day).
 Rates: Standard $32/hr. Extended $35-$40/hr. Queens $30/hr.
 Assessment Fee: $150 if total hours < 20.
 
-13. Important Forms
+13. Important Forms 
 - POA (Power of Attorney): Financial decisions.
 - Health Care Proxy: Medical decisions.
 - Authorized Representative: For Medicaid application only.
